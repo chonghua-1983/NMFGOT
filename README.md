@@ -7,7 +7,7 @@ The external functions used in the manuscript can be found in the folder externa
 
 1. NMFGOT includes the main functions below: <br>
 
-   "mf_op.m": NMFGOT implementation, integrative analysis for microbiome data and metabonomics data by matrix factorization and optimal transport plan. <br>
+   "mf_op.m": NMFGOT implementation, integrative analysis for microbiome data and metabolomics data by matrix factorization and optimal transport plan. <br>
    "parameter_selection_mfop.m": parameters selection for NMFGOT. <br>
    "demo1.m": a demo on GASTRIC CANCER(GC) dataset <br>
    "downstream.m": an tutorial for implementing lasso and stabalitity selection to identify the significantly and stable microbe-metabolite associations. <br>
