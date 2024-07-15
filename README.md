@@ -14,5 +14,7 @@ The external functions used in the manuscript can be found in the folder externa
    "tutorial.m": a step-by-step tutorial for implementing NMFGOT, including visualization, parameter selection and so on.<br>
    "external/silhouette_similarityMatrix.m": function for computing silhouette scores metric. <br>
    "external/computing_WMD.m": computing optimal transport distance between samples. <br>
+   "data/data1.mat": GC data used in the manucript to demonstrate the flowchat of NMFGOT. <br>
+   "umap": this folder includes some functions used to visualize samples. <br>
    
 2. Reference
