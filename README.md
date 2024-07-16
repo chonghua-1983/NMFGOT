@@ -19,5 +19,6 @@ The external functions used in the manuscript can be found in the folder externa
    "HVGs.m": select high variable features based on its average expression and Fano factor. <br>
    "lasso_tutorial.R": implement stable selection with sparse lasso regression. <br>
    "umapFileExchange": UMAP visualization tools, it can be directly used after being uncompressed. <br>
+   "tutorial_on_GC.mlx": real-time interaction file for show the implementing of NMFGOT on GC data. <br>
    
 2. Reference
