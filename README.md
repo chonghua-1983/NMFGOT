@@ -16,5 +16,6 @@ The external functions used in the manuscript can be found in the folder externa
    "external/computing_WMD.m": computing optimal transport distance between samples. <br>
    "data/data1.mat": GC data used in the manuscript to demonstrate the flowchart of NMFGOT. <br>
    "filter_feas.m": filtering features(samples) occurring in samples(features) less than given threshold. <br>
+   "HVGs.m": select high variable features based on its average expression and Fano factor
    
 2. Reference
