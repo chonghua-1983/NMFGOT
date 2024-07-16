@@ -18,5 +18,6 @@ The external functions used in the manuscript can be found in the folder externa
    "filter_feas.m": filtering features(samples) occurring in samples(features) less than given threshold. <br>
    "HVGs.m": select high variable features based on its average expression and Fano factor. <br>
    "lasso_tutorial.R": implement stable selection with sparse lasso regression. <br>
+   "umapFileExchange": UMAP visualization tools, it can be directly used after being uncompressed. <br>
    
 2. Reference
