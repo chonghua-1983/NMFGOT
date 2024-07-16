@@ -15,5 +15,6 @@ The external functions used in the manuscript can be found in the folder externa
    "external/silhouette_similarityMatrix.m": function for computing silhouette scores metric. <br>
    "external/computing_WMD.m": computing optimal transport distance between samples. <br>
    "data/data1.mat": GC data used in the manuscript to demonstrate the flowchart of NMFGOT. <br>
+   "filter_feas.m": filtering features(samples) occurring in samples(features) less than given threshold. <br>
    
 2. Reference
